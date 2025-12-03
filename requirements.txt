@@ -1,0 +1,10 @@
+streamlit
+torch
+sentencepiece
+pandas
+scikit-learn
+matplotlib
+seaborn
+indic-nlp-library
+chardet
+supabase

@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+__pycache__/
+*.pyc
+env/
+venv/
+*.log
+checkpoints/
+*.csv
+deployment/keys.py
